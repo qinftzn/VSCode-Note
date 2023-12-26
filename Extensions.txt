@@ -1,0 +1,3 @@
+Uncrustify:
+1.install:Prebuilt binaries are available on sourceforge. You will need to put the executable in your PATH variable and you will have to update it manually
+2.operate:Open the file in vscode then press  the shift+alt+f to butify it.
